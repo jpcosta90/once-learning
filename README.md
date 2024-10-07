@@ -22,4 +22,4 @@ Detailed dataset description can be found in [docs/dataset_description.md](docs/
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/once-learning-benchmark.git
+   git clone https://github.com/username/once-learning.git
