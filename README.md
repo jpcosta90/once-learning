@@ -6,6 +6,7 @@ This repository provides the first benchmark dataset for evaluating models on th
 ## Repository Structure
 - **`docs/`**: Detailed documentation of the benchmark and methodology.
 - **`data/`**: Dataset and processed data for benchmarking.
+- **`files/`**: Contains all additional resources required for benchmarking, including documents, images, and other related files used in experimental evaluations.
 - **`models/`**: Configurations and weights of baseline models.
 - **`scripts/`**: Scripts for data preprocessing, model training, and evaluation.
 - **`notebooks/`**: Jupyter notebooks for interactive experimentation.
