@@ -12,10 +12,9 @@ This repository provides the first benchmark dataset for evaluating models on th
 - **`results/`**: Baseline results and evaluation plots.
 
 ## Dataset
-The Once Learning Document Dataset consists of various document patterns, including:
-- `Pattern00`: Simple character-based patterns.
-- `Pattern01`: Structural compositions with nested elements.
-- `Pattern02`: Complex figures with transformations.
+The Once Learning Dataset consists of various tasks patterns, including:
+- `One-Page-Document`: This category includes document patterns where each document consists of a single page only.
+- `Multi-Page-Document`: This category includes document patterns where the understanding of the content requires analyzing multiple pages together.
 
 Detailed dataset description can be found in [docs/dataset_description.md](docs/dataset_description.md).
 
