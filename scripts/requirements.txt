@@ -2,4 +2,5 @@ accelerate==0.34.2
 torch==2.4.1+cu121
 bitsandbytes==0.44.1
 transformers==4.46.0.dev0
-llama-stack  # Caso também precise dessa biblioteca, especifique a versão se necessário
+llama-stack
+
