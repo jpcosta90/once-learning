@@ -1,7 +1,7 @@
 accelerate==0.34.2
 torch==2.4.1+cu121
 bitsandbytes==0.44.1
-git+https://github.com/huggingface/transformers  # Para instalar diretamente do GitHub
+git+https://github.com/huggingface/transformers
 llama-stack
 
 
