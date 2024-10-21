@@ -1,0 +1,121 @@
+file1,file2,same_pattern,resultado
+pattern07/qkbn0220.tif,pattern12/szxx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is an invoice with detailed itemization and calculations, while the second document lacks similar item details and is more of a summary statement without breakdowns.""
+}
+```"
+pattern01/gkdj0179.tif,pattern01/jrxx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has discrepancies in budget amounts, particularly in the categories of Salaries, Fringe Benefits, Supplies, and Total Amount Requested compared to the first document. Additionally, the layout and presentation formatting appear consistent between documents, but the content does not conform to the standard set by the first document.""
+}
+```"
+pattern12/rkkh0170.tif,pattern12/sgcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not match the layout and content standards of the first document. It includes different formatting, additional information such as cumulative totals, and a distinct organizational structure, suggesting it does not conform to the expected standards.""
+}
+```"
+pattern01/ffcj0179.tif,pattern14/gnyx0222.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is a detailed invoice outlining budget allocations and amounts requested for different categories, while the second document is a project timeline with comments and estimated costs but lacks the formal structure and detailed budget breakdown of the first. They serve different purposes and do not align in format or content.""
+}
+```"
+pattern01/gkdj0179.tif,pattern12/ngcj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has a significantly higher total amount requested ($30,030.75) compared to the first document ($55,942.81), which raises concerns regarding consistency in budget allocation. Additionally, the layout, formatting, and detail provided in the second document do not match the structured presentation of the first document.""
+}
+```"
+pattern01/xrxx0179.tif,pattern04/flbn0220.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is an invoice detailing budget categories and amounts, while the second document is a purchase requisition for specific items. They serve different purposes and have distinct layouts, making the second document non-compliant with the standard of the first.""
+}
+```"
+pattern01/ttbj0179.tif,pattern01/xrxx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document presents different budget categories with significantly lower totals and variations in reported amounts compared to the first document, indicating inconsistencies in the financial reporting process. Furthermore, the second document applies a different billing rate for some categories and lacks uniformity in formatting.""
+}
+```"
+pattern00/hlbn0220.tif,pattern12/jpcj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is a detailed invoice with specific itemization and shipping information, while the second document is more of a grant report with less detailed itemization and different formatting styles. They do not conform in terms of content layout and purpose.""
+}
+```"
+pattern12/gfcj0179.tif,pattern12/ngcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document includes a clear contract and payment information, while the second document lacks uniformity in layout and clarity of content, such as specific project details and inconsistent formatting.""
+}
+```"
+pattern01/jrxx0179.tif,pattern01/zldj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has discrepancies in budget categories and total amounts compared to the first document. For example, salaries, fringe benefits, supplies, and total requested amounts differ between the two documents.""
+}
+```"
+pattern12/jpcj0179.tif,pattern12/kpjx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document contains a different format and layout compared to the first document. It includes specific sections such as 'Contract/Grant #' and 'Total Amount Due on this Invoice' that were not present in the first document. Additionally, the style of presentation, including font and structure, differs notably between the two invoices.""
+}
+```"
+pattern12/gfcj0179.tif,pattern19/nkbn0220.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has a significantly different layout and content structure, including multiple line items and a total amount, while the first document is a simplified invoice with a unique format and specific claim details. The information presented in each document pertains to different agreements or bills, indicating non-compliance with the standard established in the first document.""
+}
+```"
+pattern00/hlbn0220.tif,pattern01/hkdj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is an invoice for a product order, while the second document is a budget request with detailed category breakdowns. The content, layout, and purpose of the two documents differ significantly.""
+}
+```"
+pattern12/jpcj0179.tif,pattern12/lrjx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is an invoice with a clear structure including items like Stipend and IDC, while the second document contains additional information such as a reference number, title, and specific instructions, which deviate from the expected standard format of the first document.""
+}
+```"
+pattern01/gkdj0179.tif,pattern12/phhx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document is a detailed breakdown of expenses with specific categories (salaries, fringe benefits, etc.), while the second document lacks such clarity and organization in presenting expense categories. Additionally, the first document includes a total requested amount and a clear reference to account numbers, whereas the second document appears less structured and does not provide comparable detail on billing periods.""
+}
+```"
+pattern12/krxx0179.tif,pattern12/tkdj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document lacks clear project details, such as a project title and direction similar to the first document. Additionally, the second invoice has a significantly higher award amount with less detailed service descriptions, which detracts from standardization.""
+}
+```"
+pattern01/gkdj0179.tif,pattern20/gqhw0217.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document lacks a clear budget breakdown, includes different formatting styles, and is focused on a service fee without itemized expenses resembling the first document's detailed budget structure.""
+}
+```"
+pattern12/kzcj0179.tif,pattern12/mgcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has a different layout and structure compared to the first document. It lacks detailed breakdowns of expenses as seen in the first document, and the first document follows a specific standardized format that is not replicated in the second. Additionally, the total amounts and context of the invoices differ significantly.""
+}
+```"
+pattern12/jpcj0179.tif,pattern12/xzcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document lacks the same level of detail and structure, including itemized expenditures, total expenses summation, and comparison metrics, present in the first document. The format, clarity, and specific expense categories do not align with the first document's standard.""
+}
+```"
+pattern01/rldj0179.tif,pattern12/zyjx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The first document follows a specific layout and budget categorization, including details on salaries, fringe benefits, and overhead, while the second document has a different format and lacks detailed budget categories. Additionally, the amounts and terms referenced are not directly comparable, indicating a deviation from the first document's standards.""
+}
+```"

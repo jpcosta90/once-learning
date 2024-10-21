@@ -1,0 +1,113 @@
+file1,file2,same_pattern,resultado
+pattern07/qkbn0220.tif,pattern12/szxx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has a different layout and content structure compared to the first. The first is a laboratory invoice with itemized chemical quantities and prices, while the second is a university project invoice with references to a specific project and principal investigator, indicating it is not a similar type of invoice.""
+}
+```"
+pattern01/gkdj0179.tif,pattern01/jrxx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document has additional categories like 'Equipment' and different values in 'Salaries', 'Fringe Benefits', 'Supplies', 'Travel', and 'Overhead'. The total amounts requested are also different.""
+}
+```"
+pattern12/rkkh0170.tif,pattern12/sgcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document differs in format and content, including different invoice details, addresses, and payment information.""
+}
+```"
+pattern01/ffcj0179.tif,pattern14/gnyx0222.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not conform to the content or layout of the first document. The first document is an invoice with financial details, while the second document is a project timeline with dates and comments.""
+}
+```"
+pattern01/gkdj0179.tif,pattern12/ngcj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document differs significantly in terms of layout, sections included, and information presented. It focuses on a different project and has no breakdown of expenses by categories as seen in the standard document.""
+}
+```"
+pattern01/xrxx0179.tif,pattern04/flbn0220.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document is a purchase requisition form, whereas the first is an invoice. They contain different types of information and are formatted differently, indicating they serve distinct purposes and do not conform to each other in terms of content and layout.""
+}
+```"
+pattern01/ttbj0179.tif,pattern01/xrxx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""Different budget categories and amounts, invoice numbers, reference accounts, total requested amounts, and included progress report details.""
+}
+```"
+pattern00/hlbn0220.tif,pattern12/jpcj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document significantly differs in format and content. The supplier, layout, and type of information presented do not match the standard document. Invoice specifics, such as addresses and the items listed, are inconsistent.""
+}
+```"
+pattern12/gfcj0179.tif,pattern12/ngcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document differs in layout and content, such as invoice number format, company address, recipient, project details, amount, and certification signature.""
+}
+```"
+pattern01/jrxx0179.tif,pattern01/zldj0179.tif,1,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document has discrepancies in the layout and categorization compared to the first document. The budget period and family of categories differ (1st and 2nd Quarter instead of 4th Quarter and 2nd Progress Report), and the amounts also vary significantly. Furthermore, the recipient and authorizations are similar, but the different grant number indicates a lack of conformity to the standard template and structure seen in the first document.""
+}"
+pattern12/jpcj0179.tif,pattern12/kpjx0179.tif,1,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The layout and structure of the second document differ from the standard first document. The sender's details, invoice sections, and formatting are distinct between the two documents.""
+}"
+pattern12/gfcj0179.tif,pattern19/nkbn0220.tif,0,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document has a different layout, provider details, invoice number format, line item breakdown, and total amount compared to the standard document. It lacks necessary certification signature and tax ID verification present in the standard.""
+}
+```"
+pattern00/hlbn0220.tif,pattern01/hkdj0179.tif,0,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document has a completely different format and content compared to the first document. The first document is an invoice from Center Candy, Inc. with specific item details and pricing, while the second document is a budget request from the University of Louisville Research Foundation, featuring budget categories such as salaries, fringe benefits, and overhead. The layout, structure, and type of information presented are not aligned with each other.""
+}"
+pattern12/jpcj0179.tif,pattern12/lrjx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document differs significantly in layout and content from the standard document. It highlights a different institution, recipient, and financial details.""
+}
+```"
+pattern01/gkdj0179.tif,pattern12/phhx0179.tif,0,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document differs in format, recipient, remittance details, and lacks category breakdown similar to the first document.""
+}"
+pattern12/krxx0179.tif,pattern12/tkdj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document differs significantly in format and details compared to the first. The first document includes specific fields for PI/Director and Department, a project title, and a detailed section for remarks and certifications, which are missing in the second document. The recipient and layout details also differ considerably.""
+}
+```"
+pattern01/gkdj0179.tif,pattern20/gqhw0217.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The two documents have different formats, structures, and purposes. The first is an invoice with detailed financial information for a progress report, while the second is a proposal or project summary with service fees and project details. They differ in layout, content focus, and type of information presented.""
+}
+```"
+pattern12/kzcj0179.tif,pattern12/mgcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document differs in several aspects such as the issuing institution, invoice format and layout, account information, and total amount due compared to the standard document.""
+}
+```"
+pattern12/jpcj0179.tif,pattern12/xzcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document contains significantly different content and layout compared to the first. It includes additional sections such as 'Researcher Representative,' 'Principal Investigator,' and a detailed budget that are not present in the standard document.""
+}
+```"
+pattern01/rldj0179.tif,pattern12/zyjx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not conform to the layout or content of the first document. Different institutions, invoice numbers, invoice dates, and amount requests are present.""
+}
+```"
