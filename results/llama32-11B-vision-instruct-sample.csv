@@ -1,0 +1,36 @@
+file1,file2,same_pattern,llama32_response
+pattern07/qkbn0220.tif,pattern12/szxx0179.tif,0,"{""status"": ""out of standard"", ""justification"": ""The document lacks a company name and date, and the bill to section is missing.""}"
+pattern01/gkdj0179.tif,pattern01/jrxx0179.tif,1,"{""status"": ""out of standard"", ""justification"": ""The document does not contain a title or header, and the font size of the text is inconsistent.""}"
+pattern12/rkkh0170.tif,pattern12/sgcj0179.tif,1,"{""status"": ""out of standard"", ""justification"": ""The document lacks a proper header with the sender's and receiver's information, as well as a clear indication of the purpose of the transaction, making it difficult to understand the context and purpose of the document.""}"
+pattern01/ffcj0179.tif,pattern14/gnyx0222.tif,0,"{""status"": ""out of standard"", ""justification"": ""The second document lacks the company name and logo, which are essential elements of a standard document.""}"
+pattern01/gkdj0179.tif,pattern12/ngcj0179.tif,0,"{""status"": ""out of standard"", ""justification"": ""The document has a different font style, font size, and font color than the standard document, making it out of standard.""}"
+pattern01/xrxx0179.tif,pattern04/flbn0220.tif,0,"{""status"": ""out of standard"", ""justification"": ""The document's content and layout deviate from the standard, featuring different formatting, font styles, and a missing signature block.""}"
+pattern01/ttbj0179.tif,pattern01/xrxx0179.tif,1,"{""status"": ""out of standard"", ""justification"": ""The document has a different layout and content than the standard document.""}"
+pattern00/hlbn0220.tif,pattern12/jpcj0179.tif,0,"{
+    ""status"": ""standard"",
+    ""justification"": ""The document matches the standard document in terms of content and layout.""
+}"
+pattern12/gfcj0179.tif,pattern12/ngcj0179.tif,1,"{""status"": ""out of standard"", ""justification"": ""The document is missing a line for the name of the person receiving the payment, which is a standard requirement.""}"
+pattern01/jrxx0179.tif,pattern01/zldj0179.tif,1,"{
+    ""status"": ""standard"",
+    ""justification"": ""The document follows the same structure and layout as the standard document, with the same elements and formatting, indicating a high level of conformity.""
+}"
+pattern12/jpcj0179.tif,pattern12/kpjx0179.tif,1,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The document lacks the required signature block and the font used is not the standard one.""
+}"
+pattern12/gfcj0179.tif,pattern19/nkbn0220.tif,0,"{
+    ""status"": ""standard"",
+    ""justification"": ""The document has a clear and concise format, with all necessary information and details in the correct places, and the layout is easy to read and understand.""
+}"
+pattern00/hlbn0220.tif,pattern01/hkdj0179.tif,0,"{""status"": ""out of standard"", ""justification"": ""The document lacks the signature of the authorized person.""}"
+pattern12/jpcj0179.tif,pattern12/lrjx0179.tif,1,No valid JSON response.
+pattern01/gkdj0179.tif,pattern12/phhx0179.tif,0,No valid JSON response.
+pattern12/krxx0179.tif,pattern12/tkdj0179.tif,1,"{""status"": ""out of standard"", ""justification"": ""The document is missing a date.""}"
+pattern01/gkdj0179.tif,pattern20/gqhw0217.tif,0,"{""status"": ""out of standard"", ""justification"": ""The document has different content and layout compared to the standard document.""}"
+pattern12/kzcj0179.tif,pattern12/mgcj0179.tif,1,"{
+    ""status"": ""standard"",
+    ""justification"": ""The document conforms to the standard of the first one in terms of content and layout.""
+}"
+pattern12/jpcj0179.tif,pattern12/xzcj0179.tif,1,"{""status"": ""standard"", ""justification"": ""The document is a standard invoice with all the necessary information, including the company name, address, and contact details, as well as the date, invoice number, and payment terms. The layout is clear and easy to read, with all the information organized in a logical and consistent manner.""}"
+pattern01/rldj0179.tif,pattern12/zyjx0179.tif,0,"{""status"": ""out of standard"", ""justification"": ""The document to be compared has a different font and font size than the standard document, and the font color is not black, but rather gray, which is not present in the standard document.""}"
