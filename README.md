@@ -62,7 +62,7 @@ Detailed dataset description can be found in [docs/dataset_description.md](docs/
  **F1-score**   0.15  
  **Accuracy**   0.45  
 
-### Confusion Matrix - LLaMA 3.2 Vision Instruct
+### Confusion Matrix - LLaMA 3.2 11B Vision Instruct
 
 | True Value \ Predicted | Predicted 0 | Predicted 1 |
 |------------------------|-------------|-------------|
