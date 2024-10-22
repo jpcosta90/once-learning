@@ -38,21 +38,17 @@ Detailed dataset description can be found in [docs/dataset_description.md](docs/
  **F1-score**   0.00  
  **Accuracy**   0.50  
 
-### Confusion Matrix - GPT-40
+### Confusion Matrix - GPT-4o
 
 | True Value \ Predicted | Predicted 0 | Predicted 1 |
 |------------------------|-------------|-------------|
 | **True 0**             | 10           | 0           |
 | **True 1**             | 10           | 0           |
 
-### Metrics Report - GPT-40
-
-| Metric       | Value |
-|--------------|-------|
-| **Precision** | 0.00  |
-| **Recall**    | 0.00  |
-| **F1-score**  | 0.00  |
-| **Accuracy**  | 0.50  |
+ **Precision**  0.00  
+ **Recall**     0.00  
+ **F1-score**   0.00  
+ **Accuracy**   0.50  
 
 ### Confusion Matrix - GPT-4 Turbo
 
@@ -61,14 +57,10 @@ Detailed dataset description can be found in [docs/dataset_description.md](docs/
 | **True 0**             | 8           | 2           |
 | **True 1**             | 9           | 1           |
 
-### Metrics Report - GPT-4 Turbo
-
-| Metric       | Value |
-|--------------|-------|
-| **Precision** | 0.33  |
-| **Recall**    | 0.10  |
-| **F1-score**  | 0.15  |
-| **Accuracy**  | 0.45  |
+ **Precision**  0.33  
+ **Recall**     0.10  
+ **F1-score**   0.15  
+ **Accuracy**   0.45  
 
 ### Confusion Matrix - LLaMA
 
@@ -77,14 +69,10 @@ Detailed dataset description can be found in [docs/dataset_description.md](docs/
 | **True 0**             | 8           | 2           |
 | **True 1**             | 7           | 3           |
 
-### Metrics Report - LLaMA
-
-| Metric       | Value |
-|--------------|-------|
-| **Precision** | 0.60  |
-| **Recall**    | 0.30  |
-| **F1-score**  | 0.40  |
-| **Accuracy**  | 0.55  |
+ **Precision**  0.60  
+ **Recall**     0.30  
+ **F1-score**   0.40  
+ **Accuracy**   0.55  
 
 
 ### Observations:
