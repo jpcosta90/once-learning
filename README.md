@@ -26,21 +26,17 @@ Detailed dataset description can be found in [docs/dataset_description.md](docs/
 
 # Results and Metrics for LLM Models
 
-### Confusion Matrix - GPT-40min
+### Confusion Matrix - GPT-4o-mini
 
 | True Value \ Predicted | Predicted 0 | Predicted 1 |
 |------------------------|-------------|-------------|
 | **True 0**             | 10           | 0           |
 | **True 1**             | 10           | 0           |
 
-### Metrics Report - GPT-40min
-
-| Metric       | Value |
-|--------------|-------|
-| **Precision** | 0.00  |
-| **Recall**    | 0.00  |
-| **F1-score**  | 0.00  |
-| **Accuracy**  | 0.50  |
+ **Precision**  0.00  
+ **Recall**     0.00  
+ **F1-score**   0.00  
+ **Accuracy**   0.50  
 
 ### Confusion Matrix - GPT-40
 
