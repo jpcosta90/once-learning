@@ -1,0 +1,206 @@
+file1,file2,same_pattern,resultado
+pattern07/qkbn0220.tif,pattern12/szxx0179.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The layout and structure differ significantly. The first image has a specific column structure and layout for the items billed with headings like 'Quantity', 'Description', 'Rate', and 'Amount', which the second image lacks."",
+    ""Text Element Comparison"": ""The fonts and styles used in the documents are different. The first document uses a more traditional, serif font for some parts, whereas the second uses a consistent, modern-looking, sans-serif font throughout."",
+    ""Visual Element Comparison"": ""The first image has unique header logo placement and boxed sections for the bill to address and signature, while the second image uses standard text lines without any such distinct visual separations."",
+    ""Alignment and Symmetry Verification"": ""The alignment and placement of textual content in the second document do not mirror the symmetry and placement found in the first. For example, the total amount and other details do not align in the same positions."",
+    ""Structural Component Verification"": ""The second image is missing several structural components found in the first, such as detailed categorization of items in rows and multiple columns for item details."",
+    ""Visual Coherence Check"": ""There is a lack of visual coherence between the two documents. The first uses distinct blocks and shading for different sections which the second does not replicate.""
+  }
+}"
+pattern01/gkdj0179.tif,pattern01/jrxx0179.tif,1,"{
+  ""status"": ""standard"",
+  ""justification"": ""Both documents adhere to the same layout structure, with the information organized in a clear and consistent manner. Text elements such as font style and size show high consistency. Visual elements like headers, footers, and document stamps are uniformly placed and styled. All structure components like the date, invoice number, address, and total amount requested are consistent, positioned similarly across both documents. Additionally, the overall color scheme and visual coherence remain aligned, maintaining black text over a white background with delineated sections for different categories. The verification of alignment and symmetry in text and visuals also matches precisely between the two documents.""
+}"
+pattern12/rkkh0170.tif,pattern12/sgcj0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""global_layout_analysis"": ""The second document's layout significantly differs from the first in terms of structural formatting and arrangement of textual and header elements."",
+    ""text_element_comparison"": ""The fonts, styles, and general appearance of text in the second document are different from those in the first document. The keywords specific to categories and layout organization do not align."",
+    ""visual_element_comparison"": ""The visual style and header arrangement show marked discrepancies. The second document lacks the graphical lines and box designs present in the first document."",
+    ""alignment_and_symmetry_verification"": ""Misalignment in header and footer areas as well as different alignment of text blocks are evident when comparing the two documents."",
+    ""structural_component_verification"": ""The second document is missing several structural components that are prominent in the first, such as detailed itemization of costs and categorizations."",
+    ""visual_coherence_check"": ""There is inconsistency in color usage and overall visual coherence. The first document uses more diverse visual elements, while the second document maintains a more simplistic design.""
+  }
+}
+```"
+pattern01/ffcj0179.tif,pattern14/gnyx0222.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not adhere to the standard defined by the first in multiple aspects. The global layout and structure differ significantly: the first document is an invoice with detailed financial breakdowns and formal elements such as signature and notes, while the second document is a project timeline and summary. In terms of text elements, the font styles and distribution of textual content vary between the two documents. The first document utilizes a tabulated format for budget items, whereas the second lays out project milestones and associated commentary. Visually, the first document incorporates boxed texts and distinctive signature and stamp areas, contrasting with the second’s basic list and timeline format without similar graphical elements. Alignment, symmetry, and structural components such as signatures and date stamps are also absent in the second document. There is no visual coherence in style or color schemes between the two documents.""
+}
+```"
+pattern01/gkdj0179.tif,pattern12/ngcj0179.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The layout and structure of the documents differ significantly. Image 1 uses a detailed line-item format for financials, while Image 2 employs a more simplified summary and has additional sections like 'Description of Services'."",
+    ""Text Element Comparison"": ""The font styles appear different, with Image 1 using a more traditional serif font and Image 2 using a mix of serif for titles and sans-serif for details. The keyword usage and syntax patterns also differ."",
+    ""Visual Element Comparison"": ""Image 1 includes additional graphical elements like a table and multiple subsections, which are not present in Image 2. Image 2 has a simpler structure with fewer visual elements."",
+    ""Alignment and Symmetry Verification"": ""Image 2 shows asymmetrical distribution of elements and misalignment compared to the tabulated and aligned presentation in Image 1."",
+    ""Structural Component Verification"": ""Components such as the 'signature and date blocks' are positioned differently. Image 2 also lacks a detailed breakdown of the budget into subcategories as seen in Image 1."",
+    ""Visual Coherence Check"": ""Color usage is similar in both, mostly black ink; however, the overall visual coherence related to layout and line consistency is not maintained in Image 2.""
+  }
+}"
+pattern01/xrxx0179.tif,pattern04/flbn0220.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The structure and format of the documents are different. The first image is an invoice format primarily focusing on financial details with various expense categories listed, while the second is a purchase requisition form for product ordering."",
+    ""Text Element Comparison"": ""The fonts and styles used in the documents are different. The first document uses a mixture of underline and regular styles for headings, whereas the second document uses mostly plain text with bold headings."",
+    ""Visual Element Comparison"": ""The first document contains a signature and a stamp, which are not present in the second document. The overall visual elements and presentation style differ significantly."",
+    ""Alignment and Symmetry Verification"": ""The alignment and layout of information differ between the two documents. The first has centered headings for sections and left-aligned text, while the second has left-aligned headings and mixed alignment for content."",
+    ""Structural Component Verification"": ""The components such as 'signature', 'date', and 'total amount requested' in the first document do not find a direct correspondence in the second document, which instead includes a 'total price' and 'approval signature/date'."",
+    ""Visual Coherence Check"": ""The styling, line harmony, and overall aesthetic of the documents differ; the first document uses more delineated blocks for separating contents, unlike the second.""
+  }
+}"
+pattern01/ttbj0179.tif,pattern01/xrxx0179.tif,1,"{
+  ""status"": ""standard"",
+  ""justification"": ""The second document closely adheres to the specifications and layout of the standard document. Both documents share a similar structure including header with date, title, and recipient information; a detailed breakdown of the quarterly financial overview; and the layout for categories such as SALARIES, BENEFITS, SUPPLIES, etc., is consistent in both. Text elements like font and alignment match closely, and both maintain a concise visual appearance with no extraneous elements. Visual elements such as the logo, footer contents, and the 'RECEIVED' stamp are consistently placed. Although there are minor discrepancies in how figures are rounded and represented, these do not deviate significantly from the standard set by the first document.""
+}"
+pattern00/hlbn0220.tif,pattern12/jpcj0179.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The structure and format of the two invoices differ significantly. Image 1 has multiple sections with headers such as Bill To, Ship To, Description, and Totals at the bottom. Image 2, however, has a simplified layout primarily focusing on the stipend and total expenses without separate sections for billing and shipping information."",
+    ""Text Element Comparison"": ""The fonts and styles in Image 2 are different. Image 1 uses a monospaced font for the invoice details, while Image 2 employs a more standard document font. The keywords and overall syntax patterns also differ with Image 1 detailing product items and Image 2 listing stipend and institutional code information."",
+    ""Visual Element Comparison"": ""Image 1 includes a handwritten section and a boxed diagram sketch, which are absent in Image 2. Image 2 includes a formal signature and a received stamp which are not present in Image 1."",
+    ""Alignment and Symmetry Verification"": ""The alignment and symmetry are divergent; Image 1 has text aligned in columns that adjust per category (such as quantity, price, etc.), while Image 2 aligns text in a block format under stipend and IDC sections."",
+    ""Structural Component Verification"": ""Crucial structural components like detailed product description in Image 1 are missing in Image 2, which focuses more on summary financial data."",
+    ""Visual Coherence Check"": ""Image 1 and Image 2 display different color schemes and use different line styles; Image 1 has more handwritten elements and stamped effects, which are inconsistent with the clean typed format of Image 2.""
+  }
+}"
+pattern12/gfcj0179.tif,pattern12/ngcj0179.tif,1,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""global_layout_analysis"": ""The overall layout, structure, and content distribution are different. Image 1 uses a centered header with distinct sections for recipient information and billing details, whereas Image 2 places most information aligned to the left with different segmentation of details."",
+    ""text_element_comparison"": ""Fonts and styles are inconsistent between the two documents. Image 1 uses serif fonts, and Image 2 predominantly uses sans-serif fonts."",
+    ""visual_element_comparison"": ""Image 2 lacks the certification box present in Image 1 and uses a different stamp design for received date."",
+    ""alignment_symmetry_verification"": ""Alignments are different; Image 1 uses a mixture of centered and left alignments, while Image 2 primarily uses left alignments without the use of centering for key elements like totals and important notices."",
+    ""structural_component_verification"": ""Image 2 is missing sections present in Image 1 such as 'Fixed Price Billing' and uses different labeling for sections with added elements like the payment advice section."",
+    ""visual_coherence_check"": ""Color and visual style are different; the first document is completely in black ink with a clean background, while the second includes faded backgrounds and different designs for boxes and stamps.""
+  }
+}"
+pattern01/jrxx0179.tif,pattern01/zldj0179.tif,1,"{
+  ""status"": ""standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""Both documents share identical layout and structure including title, address, invoice information, and payment categores arrangement."",
+    ""Text Element Comparison"": ""The fonts, text styles, and keywords used in both documents are consistent. Syntax and format of the entries are also similar."",
+    ""Visual Element Comparison"": ""The shading in headers, footers, and the placement of the 'OK to pay' stamps and signatures are alike in both documents."",
+    ""Alignment and Symmetry Verification"": ""Text alignment and the symmetry of the format, from the headings down to the detailed listings, match perfectly."",
+    ""Structural Component Verification"": ""Each document possesses similar components such as salutation, invoice tables, and end notes. Positions of signatures and stamps are also analogous."",
+    ""Visual Coherence Check"": ""The overall style, including the use of lines and boxes, color schema (basic black on white), and the format coherence across both documents is maintained.""
+  }
+}"
+pattern12/jpcj0179.tif,pattern12/kpjx0179.tif,1,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The layout and structure of the documents differ significantly. The second document employs a header indicating the institution (Northwestern University), which the first document does not. Also, the arrangement of address and information details is distinct between the two."",
+    ""Text Element Comparison"": ""Font styles and sizes vary between the two documents. Moreover, the second document includes subheaders and boxed sections not present in the first."",
+    ""Visual Element Comparison"": ""Visual components such as stamps and signatures are differently placed, and the stamp designs are not consistent between both documents."",
+    ""Alignment and Symmetry Verification"": ""In Image 1, the text and fields are centered differently compared to Image 2, where the layout appears to have distinct alignment (left-aligned subheadings and center-aligned main headings)."",
+    ""Structural Component Verification"": ""The fields such as 'Invoice Period', 'Grant Period', and 'Cumulative Totals' are inconsistently placed and formatted across the two documents."",
+    ""Visual Coherence Check"": ""Overall visual style differs; for instance, the use of bold and box outlines in Image 2 creates a contrast with the more minimalistic design of Image 1.""
+  }
+}"
+pattern12/gfcj0179.tif,pattern19/nkbn0220.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The overall layout and structure significantly differ. Image 1 has a more textual layout with less emphasis on tables, while Image 2 primarily utilizes tables for itemization."",
+    ""Text Element Comparison"": ""Fonts and styles are not consistent; Image 1 uses a simpler, uniform text style across the document, whereas Image 2 employs varied styles and weights, particularly in headers and tables."",
+    ""Visual Element Comparison"": ""Image 1 does not contain headers with background coloring, whereas Image 2 includes a black background in headers which changes the visual impact. Also, Image 1 includes a stamp-like image, which Image 2 lacks."",
+    ""Alignment and Symmetry Verification"": ""The text and fields in Image 2 are aligned differently, focusing more on centered and block alignments in tables, unlike the left-aligned and narrative style in Image 1."",
+    ""Structural Component Verification"": ""Image 1 includes fields like PI Name, Contract Number, and explicit sections for certifications and references which are absent or differently presented in Image 2."",
+    ""Visual Coherence Check"": ""The color scheme (black header backgrounds in Image 2) and use of lines/dividers differ, disrupting the visual coherence between the two documents.""
+  }
+}"
+pattern00/hlbn0220.tif,pattern01/hkdj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""global_and_layout_analysis"": ""The layouts are significantly different. Image 1 has a more informal invoice layout with a handwritten section at the bottom, while Image 2 presents a formal structured layout with clear tables and categorizations."",
+    ""text_element_comparison"": ""The fonts and text styles differ; Image 1 uses a typewriter font and handwritten text, whereas Image 2 employs a cleaner, more modern computer font throughout."",
+    ""visual_element_comparison"": ""The colors and visual components also vary. Image 1 includes faded text and ink smudges, while Image 2 is clean with no background noise."",
+    ""alignment_and_symmetry_verification"": ""Alignment and symmetry are not consistent. Image 1 has left-aligned text mixed with center headers and handwritten notes, whereas Image 2 has fully structured, aligned columns of data."",
+    ""structural_component_verification"": ""Essential structural elements such as a detailed cost breakdown table in Image 2 are missing in Image 1, which has a simple list of three itemized charges with handwritten totals."",
+    ""visual_coherence_check"": ""The visual coherence between the two documents is not maintained. Image 1 features cluttered and noisy graphics, while Image 2 displays a clean and orderly presentation.""
+  }
+}
+```"
+pattern12/jpcj0179.tif,pattern12/lrjx0179.tif,1,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The layout and structure differ significantly. The first image is formatted with a simple grid and clear sectioning between address, invoice details, and signatures. The second image utilizes a mix of centered and left-aligned texts without clear segregation and different location for instructions."",
+    ""Text Element Comparison"": ""The font style and size vary across the two documents. The first document uses a consistent font style throughout, which is different from the variable styles seen in the second document."",
+    ""Visual Element Comparison"": ""The first image uses very minimalistic design elements, primarily focusing on text. The second image incorporates a horizontal line and a more prominent header."",
+    ""Alignment and Symmetry Verification"": ""In the first image, elements are left-aligned consistently. The second image shows variability in text alignment, with some headers centered and other information left-aligned."",
+    ""Structural Component Verification"": ""The key elements such as invoice details are present in both, but the placement of certain fields like the recipient and amount differs. Also, the presence of additional headers and payment instructions in the second document adds elements not found in the first."",
+    ""Visual Coherence Check"": ""The first document maintains a mono-color theme without any distinct separative lines, whereas the second document uses a bold header and more visually distinct separations.""
+  }
+}"
+pattern01/gkdj0179.tif,pattern12/phhx0179.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The layout and structure differ significantly. The standard document (Image 1) organizes information in two columns with budget info, while Image 2 uses a single column format."",
+    ""Text Element Comparison"": ""Font styles vary between documents; Image 1 employs a more traditional serif font, while Image 2 uses a sans-serif font. Additionally, the presence and alignment of text blocks differ."",
+    ""Visual Element Comparison"": ""Visual elements such as the 'RECEIVED' stamps and signatures differ in their designs and placements on the page."",
+    ""Alignment and Symmetry Verification"": ""The symmetry and alignment do not match; Image 2 lacks the column structure found in Image 1 and shows a different arrangement of invoice details."",
+    ""Structural Component Verification"": ""The structural components including headers, budget details, and layout of payment instructions differ. For instance, Image 1 includes a detailed categorization of costs which is absent in Image 2."",
+    ""Visual Coherence Check"": ""The overall visual style and coherence are inconsistent between the two documents, including the use of line separators and overall color tone.""
+  }
+}"
+pattern12/krxx0179.tif,pattern12/tkdj0179.tif,1,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The overall layout and structure of Image 2 differ significantly from Image 1. The header, footer, and body sections are not positioned similarly, and Image 2 omits several elements present in Image 1 such as detailed attention line, header notes, and elaborate footer."",
+    ""Text Element Comparison"": ""The fonts and styles used in Image 2 differ from those in Image 1, contributing to different visual impacts. The alignment and arrangement of text blocks also vary notably."",
+    ""Visual Element Comparison"": ""Graphics and visual stamps ('RECEIVED') in Image 2 do not match the style or placement of those in Image 1."",
+    ""Alignment and Symmetry Verification"": ""Text and visual components in Image 2 are not aligned as per the symmetry seen in Image 1. The overall symmetry including the text alignment and placement of key elements like the date and signature sections show considerable differences."",
+    ""Structural Component Verification"": ""Critical fields such as specific project titles, detailed descriptions, and itemized financial data present in Image 1 are either formatted differently or completely absent in Image 2."",
+    ""Visual Coherence Check"": ""The color scheme and line styling (especially in boxes and section delimiters) of Image 2 does not follow the theme of Image 1, resulting in inconsistencies in visual coherence.""
+  }
+}"
+pattern01/gkdj0179.tif,pattern20/gqhw0217.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The structure and layout of the documents are different. Image 1 is an invoice format while Image 2 is a manuscript review template."",
+    ""Text Element Comparison"": ""Font styles and sizes vary between the two documents. Image 1 uses a straightforward typeface for clear reading while Image 2 uses a more detailed, serif font that is typical for academic or formal communications."",
+    ""Visual Element Comparison"": ""Image 1 has minimal visuals other than a structured table format. Image 2 includes more detailed sections with specific headers and services fees, and also includes graphical logos."",
+    ""Alignment and Symmetry Verification"": ""Alignment in Image 1 follows a simple column-based format suitable for financial information. Image 2, while also using tables, organizes information differently to accommodate content descriptions and comments."",
+    ""Structural Component Verification"": ""Image 2 lacks elements like signature and date fields shown in Image 1."",
+    ""Visual Coherence Check"": ""Despite both images being black and white, Image 2 introduces a graphical logo and a more varied text layout, deviating from the consistent style of Image 1.""
+  }
+}"
+pattern12/kzcj0179.tif,pattern12/mgcj0179.tif,1,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The global layout and structure differ significantly. Image 1 header has more detailed affiliation and distinct subsections on the right side, unlike Image 2 which has a more simplified header layout."",
+    ""Text Element Comparison"": ""Fonts and styles are inconsistent between both documents; Image 1 uses bolder and more varied fonts compared to the more uniform font in Image 2."",
+    ""Visual Element Comparison"": ""The color schemes appear different; Image 1 uses a mix of grayscale in titles and body, whereas Image 2 mostly uses a black tone throughout. Image 1 also has a distinct watermark, absent in Image 2."",
+    ""Alignment and Symmetry Verification"": ""Text alignment and symmetry differ; dates in Image 1 are aligned within defined boxes, while Image 2 presents dates in a simpler format without boxed alignment."",
+    ""Structural Component Verification"": ""Document fields such as 'Account Name and Address' and specific labeling like 'Account No.', 'Agency No.' are present in Image 1 but are missing or differ in Image 2."",
+    ""Visual Coherence Check"": ""Image 1 maintains a specific style with well-sectioned components and a clearer separation of information, unlike Image 2 which lacks these visual coherence elements.""
+  }
+}"
+pattern12/jpcj0179.tif,pattern12/xzcj0179.tif,1,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""global_and_layout_analysis"": ""The layout and structure of the second document differ significantly. It is more detailed with sections like 'DETAILED BUDGET FOR INITIAL BUDGET PERIOD 1', which are absent in the first."",
+    ""text_element_comparison"": ""Font styles and sizes in the second document vary, not maintaining consistency with the first document."",
+    ""visual_element_comparison"": ""Each invoice uses different stamp designs and positions, indicating an inconsistency in visual presentation."",
+    ""alignment_and_symmetry_verification"": ""Text alignment and positions of fields such as 'RESEARCHER REPRESENTATIVE', 'Salaries', and others differ between the two documents."",
+    ""structural_component_verification"": ""The second document includes additional sections and details not present in the first, such as detailed budget breakdowns and specific categories for expenses."",
+    ""visual_coherence_check"": ""The overall visual styling and design elements like line spacing and section headings are not consistent between the two documents.""
+  }
+}"
+pattern01/rldj0179.tif,pattern12/zyjx0179.tif,0,"{
+  ""status"": ""out of standard"",
+  ""justification"": {
+    ""Global and Layout Analysis"": ""The layout and structure of the documents significantly differ. The standard document has a condensed and summarized financial report format, while the second document has a more narrative and detailed billing format."",
+    ""Text Element Comparison"": ""Fonts and text styles are different between the two documents, and they use distinct heading styles and text alignments."",
+    ""Visual Element Comparison"": ""The visual style and components like the stamp placements and check marks are inconsistent between the documents. Shapes and styles of the boxes containing the 'RECEIVED' stamp and certification differ."",
+    ""Alignment and Symmetry Verification"": ""Text and elements in the second document are not aligned in the same manner as in the first document, exhibiting different content alignment and distribution."",
+    ""Structural Component Verification"": ""Components such as salary breakdown, detailed category listings, and total requested amounts are structured differently. The second document lacks detailed breakdown columns for budget monitoring as seen in the first."",
+    ""Visual Coherence Check"": ""The aesthetics, use of spacing, and overall visual coherence are divergent, with the second document utilizing bold lines and separation differently than the first.""
+  }
+}"

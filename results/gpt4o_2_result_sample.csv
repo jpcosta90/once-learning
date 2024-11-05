@@ -1,0 +1,109 @@
+file1,file2,same_pattern,resultado
+pattern07/qkbn0220.tif,pattern12/szxx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not match the format and structure of the first document. Differences are seen in layout, header sections, billing information, and item descriptions. The visual elements such as fonts and alignment are also inconsistent with the standard defined in the first document.""
+}
+```"
+pattern01/gkdj0179.tif,pattern01/jrxx0179.tif,1,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document has a different recipient, budget allocations, and total amounts compared to the first document. Additionally, the specific references like '#G020187' vs '#G020216' differ, as do some of the text fields like the name of the person the report is regarding ('Dr. Lu Cai' vs 'Dr. Wolfgang Zacharias'). The 'GRANT' numbers are also different ('0000003803' vs '0000003824'). Structural components like salaries, fringe benefits, and additional fields such as 'EQUIPMENT' vary as well.""
+}
+```"
+pattern12/rkkh0170.tif,pattern12/sgcj0179.tif,1,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document does not adhere to the standard established by the first document in several aspects: 1) Layout and structure are different, with varying address placement and invoice details. 2) Text elements such as fonts and styles differ, and key elements are organized differently. 3) Visual components, including logos and stamps, are not consistent. 4) Alignment and symmetry of text and visuals notably vary. 5) Structural components such as the fields and necessary information are organized differently. 6) Overall visual coherence regarding style and formatting does not match between the two images.""
+}
+```"
+pattern01/ffcj0179.tif,pattern14/gnyx0222.tif,0,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document does not match the structure, content, and style of the first document. The layouts are different, with the first document being an invoice with specific financial details, while the second document is a project timeline for a printed film. Fonts, styles, and visual elements also differ significantly between the documents.""
+}"
+pattern01/gkdj0179.tif,pattern12/ngcj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not match the structural and layout characteristics of the first document. The sender/recipient information, layout formats, and content distribution are different. Text elements such as recipient details, invoice description, and amounts are structured differently. Visual elements like logos and stamps are also dissimilar in design and alignment.""
+}
+```"
+pattern01/xrxx0179.tif,pattern04/flbn0220.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document is a purchase requisition and does not align with the format and layout of the invoice in the first document. The structure, content, and purpose differ significantly.""
+}
+```"
+pattern01/ttbj0179.tif,pattern01/xrxx0179.tif,1,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document contains different amounts in all listed categories, differing text under 'RE:' and 'NOTE:', and a different invoice number at the top.""
+}"
+pattern00/hlbn0220.tif,pattern12/jpcj0179.tif,0,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document differs significantly in layout, text structure, and visual elements compared to the first document. The invoice formats, fonts, and styles do not match, and there are differences in included information such as dates, institutional codes, and signatures. The alignment and structural components also differ, indicating the document does not adhere to the standard.""
+}"
+pattern12/gfcj0179.tif,pattern12/ngcj0179.tif,1,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document does not adhere to the standard set by the first document. There are significant differences in layout, visual elements, text placement, and structural components. The first document is an invoice from the University of Colorado with specific fields such as PI Name, Contract No, and a certification signature. The second document, related to the University of California, has different elements like Project Title, PI/Director, and Total Amount of Award field. Additionally, there is a difference in the visual style, use of boxes, and alignment.""
+}"
+pattern01/jrxx0179.tif,pattern01/zldj0179.tif,1,"{
+    ""status"": ""standard"",
+    ""justification"": ""The second document adheres to the standard defined by the first document across all evaluated characteristics: layout and structure consistency, matching fonts and styles, similarly styled visual elements, alignment and symmetry, similar structural components, and visual coherence. The main differences are in the details such as invoice numbers and specific amounts, which are expected to differ between documents while maintaining the overall format.""
+}"
+pattern12/jpcj0179.tif,pattern12/kpjx0179.tif,1,"{
+    ""status"": ""out of standard"",
+    ""justification"": ""The layout of the two documents is different, with variations in structure and format. The first document has a simple layout with columns and an emphasis on a signature line, while the second document includes a more complex structure with additional sections such as 'TO:' and a payment summary. Text elements like fonts and styles are not consistent between the documents. The visual element comparison also shows differences, as the first document includes fewer visual components. Lastly, the alignment and symmetry between text and visual elements are inconsistent, with different focal points and text alignments.""
+}"
+pattern12/gfcj0179.tif,pattern19/nkbn0220.tif,0,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document differs significantly from the first in layout, content structure, and visual elements. The first document is a formal invoice from a university with specific formatting and details, while the second is a commercial invoice with a different layout, design, and information presentation. Key differences include varying company names, content sections, use of tables, and signature placements.""
+}
+```"
+pattern00/hlbn0220.tif,pattern01/hkdj0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not match the layout, format, or content of the first document. The first document is a commercial invoice, while the second document appears to be a research grant invoice. They differ significantly in structure, fields, and visual components. Text elements, alignment, and structural components such as fields for shipping details, descriptions, and line items present in the first document are absent in the second, indicating a different purpose and format.""
+}
+```"
+pattern12/jpcj0179.tif,pattern12/lrjx0179.tif,1,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The two documents differ significantly in layout, content structure, textual elements, and organizational branding. The first document is specific to Philip Morris USA with detailed expenditure categories, whereas the second document is from Michigan State University with a different format, focusing on grant payment details. Text elements, such as headers, instructions, and details, differ between the two documents. There are also differences in visual elements, such as the presence of logos and specific references or codes, which are not consistent across both documents.""
+}
+```"
+pattern01/gkdj0179.tif,pattern12/phhx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not adhere to the structure, layout, and specific details of the first document. Key differences are present in headers, contact information, itemization format, and payment instructions.""
+}
+```"
+pattern12/krxx0179.tif,pattern12/tkdj0179.tif,1,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document has significant differences in layout and content distribution compared to the first document. The headings, invoice details, and visual elements such as stamps and signatures are not aligned or formatted similarly to the standard. Additionally, recipient and sender information, as well as descriptions of services and payment instructions, differ considerably.""
+}
+```"
+pattern01/gkdj0179.tif,pattern20/gqhw0217.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The documents have different layouts and purposes. Image 1 is a financial invoice with structured billing information, whereas Image 2 is a project proposal or contract document containing project details and management fees without the same financial breakdown. The text styles, headings, and visual components differ significantly between the two documents.""
+}
+```"
+pattern12/kzcj0179.tif,pattern12/mgcj0179.tif,1,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document differs in layout, structure, font, and visual elements. The issuer, recipient, contact details, and invoice specifics are not aligned with those in the first document.""
+}
+```"
+pattern12/jpcj0179.tif,pattern12/xzcj0179.tif,1,"```json
+{
+    ""status"": ""out of standard"",
+    ""justification"": ""The second document significantly differs from the first in layout and content. The first document is a simple invoice with minimal information, while the second document is more detailed, containing a list of salaries, expenses, and addresses not present in the first. The formats and visual elements also do not match.""
+}
+```"
+pattern01/rldj0179.tif,pattern12/zyjx0179.tif,0,"```json
+{
+  ""status"": ""out of standard"",
+  ""justification"": ""The second document does not match the layout, structure, and content distribution of the first document. The text elements, visual elements, and alignment differ significantly from the standard defined by the first document.""
+}
+```"
